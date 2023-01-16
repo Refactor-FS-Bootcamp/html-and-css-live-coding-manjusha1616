@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+}
+
+header {
+    background-color: darkgoldenrod;
+    width: 100%;
+    height: 40px;
+    padding-top: 5px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  
+img {
+    max-width: 100%;
+    height: 1000px;
+  }
+
+h3{
+    display: inline-block;
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 15px;
+}
+
+.top{
+    display: inline;
+    position: relative;
+    height: 20px;
+    margin: 0;
+    padding: 0;
+    bottom: 12px;
+    left: 30px;
+}
+
+.logo{
+  height: 34px;
+}
+
+.img2{
+    width: 820px;
+}
+
+.page2-img{
+  display: inline-block;
+  width: 820px;
+}
+
+button {
+    background-color: darkgoldenrod;
+    border-style: none;
+    font-weight: bold;
+    padding: 30px;
+    font-size: larger;
+}
+
+.text {
+    font-size: 30px;
+    padding-left: 20px;
+    background-color: aliceblue;
+    min-height: 1000px;
+    padding: 50;
+    text-align: center;
+  }
+
+h1 {
+    padding: 50px;
+    text-align: center;
+}
+
+.paragraph{
+  display: inline-block;
+  color: aliceblue;
+  width: 500px;
+  position: absolute;
+  top: 200px;
+  margin: 30px;
+}
